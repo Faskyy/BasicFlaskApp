@@ -1,5 +1,4 @@
 # BasicFlaskApp
 
-Hey Dariusz!
+![joke](https://user-images.githubusercontent.com/31784252/117561173-6dc76600-b062-11eb-91a3-d257d238d625.jpeg)
 
-Here's my basic flask app. Added two ways to display those numbers (app.py and index.html), went more in depth by creating get methods for each type of numbers.
