@@ -60,6 +60,7 @@ def get_even_numbers(numbers):
         'even numbers': evenNums,
     })
 
+#prime numbers
 @app.route('/<int:numbers>/prime', methods=['GET'])
 def get_prime_numbers(numbers):
 	primeNums = []
